@@ -1,0 +1,41 @@
+.carta {
+    width: 350px;
+    height: 85vh;
+  }
+  .number {
+    font-size: 220px;
+  }
+  .contenedor {
+    margin-top: -50px;
+  }
+  .suit {
+    width: 60px;
+    height: 60px;
+  }
+  i {
+    width: 100%;
+    height: 100%;
+  }
+  .hearts,
+  .diamonds,
+  .spades,
+  .clubs {
+    font-size: 90px;
+  }
+  .hearts,
+  .hearts .value .number {
+    color: red;
+  }
+  .diamonds,
+  .diamonds .value .number {
+    color: red;
+  }
+  .spades,
+  .spades .value .number {
+    color: black;
+  }
+  .clubs,
+  .clubs .value .number {
+    color: black;
+  }
+  
